@@ -1,0 +1,22 @@
+China Hand
+PROJECT DESCRIPTION
+---------------------------------
+Rules of operation:
+
+- Numeric cards can be played if the played card is higher in value than the previously played card  (except for "2" and "10")
+
+- Picture cards can be played if the previous card is of value 7 or higher AND the played card is higher in value than the previously played card
+
+- Aces are high
+
+- If the player has multiple cards of the same value in hand, they can be played simultaneously
+
+- "2" can be played on top of any card. Any card can be played on top of "2"
+
+- "10" trumps the pile. Four (4) cards of the same value played on top of each other trump the pile. This grants a second turn.
+
+- If player does not have a playable card, the pile is drawn
+
+- Last hidden three (3) cards are only playable when the draw pile is empty and player's hand is empty. Hidden cards are drawn one at a time, unless a "2" or a "10" is drawn. In that case another hidden card can be drawn.
+
+- Player with an empty hand and no remaining hidden cards wins
