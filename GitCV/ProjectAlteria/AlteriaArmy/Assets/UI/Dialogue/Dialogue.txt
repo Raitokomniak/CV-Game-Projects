@@ -1,0 +1,12 @@
+
+Iris	Before we speak again, please go and defeat this practice mission.
+Iris	I'll give some tips afterwards.
+=
+Iris	I unlocked a new battle for you.
+=
+Iris	Good! Would you like oranges or bananas as a reward?
+Choice>	Oranges	Choice>	Bananas
+Iris	*gives you oranges*
+Iris	*gives you bananas*
+Iris	Off you go to new adventures.
+=
